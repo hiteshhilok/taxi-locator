@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+body{	font:Arial, Helvetica, sans-serif 11px normal; margin:0; padding:0;}
+.clear{clear:both;}
+.left{float:left;}
+.right{float:right;}
+#map{width: 75%; margin:5px auto; height:550px; float:left;}
+.legent{
+	width:100px;
+	margin:0 5px;
+}
+.sprite{background-image:url(car_markers.png); background-color:transparent; background-repeat:no-repeat; }
+.taxi { height: 31px; width: 31px;  background-position  : -0px -0px;  }
