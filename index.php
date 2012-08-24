@@ -11,10 +11,7 @@
   </head>
   <body>
     <div id="map"></div><div><h3>Log Area for developer</h3><div id="log"></div> </div>
-   <!-- <div>
-    	<h3>legent</h3>
-        <div class="left legent"><b>Vehicle</b></div><div class="left legent sprite taxi"></div><div class="left legent">Taxi</div><div class="left legent sprite taxi"></div><div class="left legent">Taxi</div>
-    </div>-->
+
     <script type="text/javascript" src="js/main-map.js">    </script>
   </body>
 
