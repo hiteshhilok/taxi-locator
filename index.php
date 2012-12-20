@@ -10,7 +10,7 @@
 <script type="text/javascript" src="js/data-markers.js"></script>
   </head>
   <body>
-    <div id="map"></div><div><h3>Log Area for developer</h3><div id="log"></div> </div>
+    <div id="map"></div><div><h3>Devloper Log</h3><div id="log"></div> </div>
 
     <script type="text/javascript" src="js/main-map.js">    </script>
   </body>
